@@ -1,6 +1,5 @@
-![]()
-
 #CRUD em JavaScript Puro
+![](https://github.com/regislaguna/javascriptcrudarray/blob/main/telaprojetocrud.png?raw=true)
 
 Este projeto foi desenvolvido em conjunto com os alunos do curso de Desenvolvimento Fullstack do Senac Presidente Prudente. Ele consiste em um CRUD (Create, Read, Update, Delete) construído inteiramente com JavaScript puro, sem o uso de bibliotecas ou frameworks externos.
 
